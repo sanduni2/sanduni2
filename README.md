@@ -94,7 +94,7 @@
 📫 Connect
 
 * 📧 **Email:** [sandunin928@gmail.com](mailto:sandunin928@gmail.com)
-* 💼 **LinkedIn:** [Add your URL here](https://www.linkedin.com/in/sanduni-navodya-samaraweera-502255269/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+* 💼 **LinkedIn:** [Sanduni Navodya Samaraweera](https://www.linkedin.com/in/sanduni-navodya-samaraweera-502255269/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 * 🧑‍💻 **GitHub:** [github.com/sanduni2](https://github.com/sanduni2)
 
 ---
