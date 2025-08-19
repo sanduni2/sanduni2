@@ -88,8 +88,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanduni2&layout=compact&theme=transparent" alt="top languages" />
 </p>
 
----
 ![snake gif](https://raw.githubusercontent.com/sanduni2/sanduni2/output/snake.svg)
+
 ```
 
 ---
