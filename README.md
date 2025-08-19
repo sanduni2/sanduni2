@@ -89,16 +89,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanduni2&layout=compact&theme=transparent" alt="top languages" />
 </p>
 
-![snake gif](https://raw.githubusercontent.com/sanduni2/sanduni2/output/snake.svg)
 
-```
 
----
-
-### 📫 Connect
+📫 Connect
 
 * 📧 **Email:** [sandunin928@gmail.com](mailto:sandunin928@gmail.com)
-* 💼 **LinkedIn:** [Add your URL here](https://www.linkedin.com/in/YOUR-LINKEDIN)
+* 💼 **LinkedIn:** [Add your URL here](https://www.linkedin.com/in/sanduni-navodya-samaraweera-502255269/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 * 🧑‍💻 **GitHub:** [github.com/sanduni2](https://github.com/sanduni2)
 
 ---
