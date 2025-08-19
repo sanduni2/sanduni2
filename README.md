@@ -1,7 +1,7 @@
 <!-- Profile README for github.com/sanduni2 -->
 
 <div align="center">
-<img src="assets/woman-coding.gif" width="300" alt="Woman coding" />
+<img src="https://iconscout.com/lottie-animation/female-web-developer-8679620_7016684" width="300" alt="Woman coding" />
 
 
 # Hi, I'm **Sanduni Navodya** 👋
