@@ -1,6 +1,7 @@
 <!-- Profile README for github.com/sanduni2 -->
 
 <div align="center">
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200" alt="Octocat Hello" />
 
 # Hi, I'm **Sanduni Navodya** 👋
 
