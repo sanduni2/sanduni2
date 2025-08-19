@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=24\&pause=1200\&center=true\&vCenter=true\&width=720\&lines=IT+Undergraduate+at+SLIIT;MERN+%7C+Java+%7C+Python+%7C+Kotlin;Frontend+\(React%2C+Tailwind\)+Enthusiast;Always+learning+and+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<a href="mailto:sandunin928@gmail.com"><img src="https://img.shields.io/badge/Email-sandunin928%40gmail.com-informational?style=flat&logo=gmail" /></a> <a href="https://github.com/sanduni2"><img src="https://img.shields.io/badge/GitHub-sanduni2-181717?style=flat&logo=github" /></a> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a> <img src="https://komarev.com/ghpvc/?username=sanduni2&style=flat" alt="profile views" />
+<a href="mailto:sandunin928@gmail.com"><img src="https://img.shields.io/badge/Email-sandunin928%40gmail.com-informational?style=flat&logo=gmail" /></a> <a href="https://github.com/sanduni2"><img src="https://img.shields.io/badge/GitHub-sanduni2-181717?style=flat&logo=github" /></a> <a href="https://www.linkedin.com/in/sanduni-navodya-samaraweera-502255269/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a> <img src="https://komarev.com/ghpvc/?username=sanduni2&style=flat" alt="profile views" />
 
 </div>
 
