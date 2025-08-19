@@ -1,7 +1,7 @@
 <!-- Profile README for github.com/sanduni2 -->
 
 <div align="center">
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200" alt="Octocat Hello" />
+<img src="https://i.gifer.com/7VE.gif" width="300" alt="Woman Coding" />
 
 # Hi, I'm **Sanduni Navodya** 👋
 
@@ -98,5 +98,3 @@
 * 🧑‍💻 **GitHub:** [github.com/sanduni2](https://github.com/sanduni2)
 
 ---
-
-> Tip: Keep your profile fresh by updating projects, pinning repositories, and adding short write-ups with screenshots and tech used.
