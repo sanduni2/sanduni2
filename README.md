@@ -89,12 +89,6 @@
 </p>
 
 ---
-
-### 🐍 Fun: Contribution Snake (optional)
-
-Add the workflow in `.github/workflows/snake.yml` (instructions in the PR/Issues or your notes) and then include:
-
-```md
 ![snake gif](https://raw.githubusercontent.com/sanduni2/sanduni2/output/snake.svg)
 ```
 
