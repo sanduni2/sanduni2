@@ -1,7 +1,8 @@
 <!-- Profile README for github.com/sanduni2 -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/jRf8BzFzM8cb5u5H0d/giphy.gif" width="300" alt="Woman coding" />
+<img src="assets/woman-coding.gif" width="300" alt="Woman coding" />
+
 
 # Hi, I'm **Sanduni Navodya** 👋
 
