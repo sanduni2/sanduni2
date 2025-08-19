@@ -67,7 +67,7 @@
 
 ### 🚀 Highlight Projects
 
-> Pin your best 4–6 repositories on your profile (Customize your pins) and link them here once ready.
+
 
 * **DishDialogue – Social Food Media Platform** (React, Spring Boot)
 * **Home Stock Management System** (MERN)
